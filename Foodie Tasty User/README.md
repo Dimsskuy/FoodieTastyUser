@@ -1,7 +1,11 @@
-# Responsive Website Restaurant
-## [Watch it on youtube](https://youtu.be/5RIFrZEjURA)
-### Responsive Website Restaurant
-Nice design of a responsive restaurant website 🥗 . It contains a header, home, about, services, menu, app, contact and a footer. It also has a fully developed light/dark mode 🌓 first for mobile then for desktop.
+# Foodie Tasty
+## Website Restaurant
+### For WEB Mid Term Exam
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+By :
+1. Aditya Yoga Darmawan NIM 201910370311123
+2. Dimas Rifandi Putra NIM 201910370311116
+3. Arianto Fernanda Putra NIM 201910370311144
+
+From :
+WEB Class "I"
